@@ -34,5 +34,17 @@ github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
 
+github "macvim",     "1.0.0"
+github "vagrant",    "2.0.13"
+github "charles",    "1.0.2"
+github "gpgme",      "1.0.0"
+github "processing", "1.1.0"
+github "skype",      "1.0.6"
+github "chrome",     "1.1.1"
+github "firefox",    "1.1.3"
+github "dropbox",    "1.1.1"
+github "evernote",   "2.0.4"
+github "alfred",     "1.1.5"
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
