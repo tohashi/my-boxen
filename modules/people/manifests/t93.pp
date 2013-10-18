@@ -14,7 +14,7 @@ class people::t93 {
   $github   = "${home}/github"
   $dotfiles = "${github}/dotfiles"
 
-  repository: { $dotfiles:
+  repository { $dotfiles:
     source  => "t93/dotfiles",
     require => File[$github]
   }
