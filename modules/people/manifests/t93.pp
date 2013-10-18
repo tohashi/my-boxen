@@ -4,9 +4,7 @@ class people::t93 {
     [
       'gnupg',
       'tig',
-      'zsh',
-      'macvim',
-      'nodebrew'
+      'macvim'
     ]:
   }
 
