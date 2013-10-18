@@ -1,5 +1,16 @@
 class people::t93 {
 
+  include zsh
+  include vagrant
+  include charles
+  include processing
+  include skype
+  include chrome
+  include firefox
+  include dropbox
+  include evernote
+  include alfred
+
   package {
     [
       'gnupg',
