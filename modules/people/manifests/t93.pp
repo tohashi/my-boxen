@@ -13,7 +13,6 @@ class people::t93 {
 
   package {
     [
-      'gnupg',
       'tig',
       'macvim'
     ]:
